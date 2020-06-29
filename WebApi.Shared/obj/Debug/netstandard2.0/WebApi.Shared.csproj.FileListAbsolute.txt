@@ -1,0 +1,9 @@
+C:\Users\Rashik\source\repos\WebApiEfCore\WebApi.Shared\bin\Debug\netstandard2.0\WebApi.Shared.deps.json
+C:\Users\Rashik\source\repos\WebApiEfCore\WebApi.Shared\bin\Debug\netstandard2.0\WebApi.Shared.dll
+C:\Users\Rashik\source\repos\WebApiEfCore\WebApi.Shared\bin\Debug\netstandard2.0\WebApi.Shared.pdb
+C:\Users\Rashik\source\repos\WebApiEfCore\WebApi.Shared\obj\Debug\netstandard2.0\WebApi.Shared.csprojAssemblyReference.cache
+C:\Users\Rashik\source\repos\WebApiEfCore\WebApi.Shared\obj\Debug\netstandard2.0\WebApi.Shared.AssemblyInfoInputs.cache
+C:\Users\Rashik\source\repos\WebApiEfCore\WebApi.Shared\obj\Debug\netstandard2.0\WebApi.Shared.AssemblyInfo.cs
+C:\Users\Rashik\source\repos\WebApiEfCore\WebApi.Shared\obj\Debug\netstandard2.0\WebApi.Shared.dll
+C:\Users\Rashik\source\repos\WebApiEfCore\WebApi.Shared\obj\Debug\netstandard2.0\WebApi.Shared.pdb
+C:\Users\Rashik\source\repos\WebApiEfCore\WebApi.Shared\obj\Debug\netstandard2.0\WebApi.Shared.csproj.CoreCompileInputs.cache

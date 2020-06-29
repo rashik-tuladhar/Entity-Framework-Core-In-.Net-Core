@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wQUCjx2ZEY3pDOMhjAA2b4TIFWUET3ki2jt7W7i6dT+zYU5lKNWYbuXqj8CQm/UZqYvz0ku/oWAsTPX2NyW86Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rashik\\source\\repos\\WebApiEfCore\\WebApi.Shared\\WebApi.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rashik\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Rashik\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Rashik\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\Rashik\source\repos\WebApiEfCore\DataAccessEfCore\bin\Debug\netstandard2.0\DataAccess.EntityFrameworkCore.deps.json
+C:\Users\Rashik\source\repos\WebApiEfCore\DataAccessEfCore\bin\Debug\netstandard2.0\DataAccess.EntityFrameworkCore.dll
+C:\Users\Rashik\source\repos\WebApiEfCore\DataAccessEfCore\obj\Debug\netstandard2.0\DataAccess.EntityFrameworkCore.csprojAssemblyReference.cache
+C:\Users\Rashik\source\repos\WebApiEfCore\DataAccessEfCore\obj\Debug\netstandard2.0\DataAccess.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\Rashik\source\repos\WebApiEfCore\DataAccessEfCore\obj\Debug\netstandard2.0\DataAccess.EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\Rashik\source\repos\WebApiEfCore\DataAccessEfCore\obj\Debug\netstandard2.0\DataAccess.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\Rashik\source\repos\WebApiEfCore\DataAccessEfCore\bin\Debug\netstandard2.0\DataAccess.EntityFrameworkCore.pdb
+C:\Users\Rashik\source\repos\WebApiEfCore\DataAccessEfCore\bin\Debug\netstandard2.0\WebApi.Shared.dll
+C:\Users\Rashik\source\repos\WebApiEfCore\DataAccessEfCore\bin\Debug\netstandard2.0\WebApi.Shared.pdb
+C:\Users\Rashik\source\repos\WebApiEfCore\DataAccessEfCore\obj\Debug\netstandard2.0\DataAccess.EntityFrameworkCore.csproj.CopyComplete
+C:\Users\Rashik\source\repos\WebApiEfCore\DataAccessEfCore\obj\Debug\netstandard2.0\DataAccess.EntityFrameworkCore.dll
+C:\Users\Rashik\source\repos\WebApiEfCore\DataAccessEfCore\obj\Debug\netstandard2.0\DataAccess.EntityFrameworkCore.pdb
